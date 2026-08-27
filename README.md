@@ -1,14 +1,22 @@
-# susith.lk
+# susith.lk — Website Version 1
 
-Digital Portfolio for Susith Athukorala.
+Personal professional website for Dr Susith Athukorala.
 
-## Before publishing
-1. Replace `YOUR_EMAIL@example.com` in `index.html`.
-2. Replace the placeholder LinkedIn URL.
-3. Optional: replace the initials portrait with a professional photo.
-4. Add publications, CV and project links when ready.
+## Upload to GitHub Pages
+1. Open the repository `susith-athukorala.github.io`.
+2. Upload all files and folders from this package into the repository root.
+3. Commit the changes.
+4. In GitHub: Settings → Pages → Deploy from branch → `main` / root.
+5. In Settings → Pages → Custom domain, use `www.susith.lk`.
+6. Keep “Enforce HTTPS” enabled once the certificate is available.
 
-## GitHub Pages
-Upload the files to a GitHub repository, enable GitHub Pages from **Settings → Pages**, and use `susith.lk` as the custom domain.
+## Main files
+- `index.html` — website content
+- `style.css` — visual styling
+- `script.js` — mobile navigation and subtle animations
+- `CNAME` — custom domain
+- `assets/images/susith-athukorala.jpg` — portrait
+- `assets/documents/susith-athukorala-cv.pdf` — downloadable CV
 
-Recommended repository name: `susith.lk`
+## Easy edits
+Most text can be edited directly in `index.html`. Colours are defined at the top of `style.css` under `:root`.
