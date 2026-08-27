@@ -1,6 +1,6 @@
 # susith.lk
 
-Starter professional website for Dr Susith Athukorala.
+Digital Portfolio for Susith Athukorala.
 
 ## Before publishing
 1. Replace `YOUR_EMAIL@example.com` in `index.html`.
