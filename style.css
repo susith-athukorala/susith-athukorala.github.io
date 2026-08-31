@@ -198,3 +198,13 @@ footer{padding:30px 0;border-top:1px solid var(--line);color:#6b7d89;font-size:.
         padding: 25px;
     }
 }
+
+.research-profile-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+
+    margin-top: 45px;
+    width: 100%;
+}
