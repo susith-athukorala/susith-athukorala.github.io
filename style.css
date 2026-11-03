@@ -233,3 +233,15 @@ footer{padding:30px 0;border-top:1px solid var(--line);color:#6b7d89;font-size:.
         margin-top: 32px;
     }
 }
+
+/* Other Projects */
+
+.other-projects {
+    margin-top: 90px;
+    padding-top: 70px;
+    border-top: 1px solid rgba(13, 53, 84, 0.12);
+}
+
+.other-projects-heading {
+    margin-bottom: 40px;
+}
